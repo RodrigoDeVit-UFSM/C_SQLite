@@ -1,5 +1,4 @@
-# SQLite
-
+# SQLite 
 Here is a tutorial for using SQLite with the C language.
 
 SQLite is famous for its great feature zero-configuration, which means no complex setup or administration is needed. This chapter will take you through the process of setting up SQLite on Windows, Linux and Mac OS X.

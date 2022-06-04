@@ -13,11 +13,11 @@ Step 3 − Create a folder C:\>sqlite and unzip above two zipped files in this f
 
 Step 4 − Add C:\>sqlite in your PATH environment variable and finally go to the command prompt and issue sqlite3 command, which should display the following result: 
 
-  SQLite version 3.38.5 2022-05-06 15:25:27
-  Enter ".help" for usage hints.
-  Connected to a transient in-memory database.
-  Use ".open FILENAME" to reopen on a persistent database.
-  sqlite>
+  	SQLite version 3.38.5 2022-05-06 15:25:27
+  	Enter ".help" for usage hints.
+  	Connected to a transient in-memory database.
+  	Use ".open FILENAME" to reopen on a persistent database.
+  	sqlite>
 
 From: https://www.tutorialspoint.com/sqlite/sqlite_installation.htm.
 

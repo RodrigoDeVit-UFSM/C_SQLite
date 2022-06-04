@@ -15,4 +15,4 @@ Step 4 − Add C:\>sqlite in your PATH environment variable and finally go to th
 
 From: https://www.tutorialspoint.com/sqlite/sqlite_installation.htm.
 
-ATTENTION: If you are using Dev-C ++ on Windows, create a "Project" as "Console Application" and check the "C Project" option. Then add to the project (from sqlite-amalgamation-3380500.zip) the "sqlite3.c", "sqlite3.h" and "sqlite3ext.h" files to the project. WITHOUT IT DONE, NOTHING WILL WORK!
+ATTENTION: If you are using Dev-C++ on Windows, create a "Project" as "Console Application" and check the "C Project" option. Then add to the project (from sqlite-amalgamation-3380500.zip) the "sqlite3.c", "sqlite3.h" and "sqlite3ext.h" files to the project. WITHOUT IT DONE, NOTHING WILL WORK!
